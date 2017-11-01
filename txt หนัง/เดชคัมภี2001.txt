@@ -1,0 +1,158 @@
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-o2rbHFAUDoo/WfX62Gfog9I/AAAAAAAAABU/81zwl6Vkm44LnUnmkKv1Dgv4Gcj2FoIZQCLcBGAs/s1600/%25E0%25B9%2580%25E0%25B8%2594%25E0%25B8%258A%25E0%25B8%2584%25E0%25B8%25B1%25E0%25B8%25A1%25E0%25B8%25A0%25E0%25B8%25B5%25E0%25B8%25A3%25E0%25B9%258C%25E0%25B9%2580%25E0%25B8%2597%25E0%25B8%25A7%25E0%25B8%2594%25E0%25B8%25B2%2B2001.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="413" data-original-width="787" height="332" src="https://3.bp.blogspot.com/-o2rbHFAUDoo/WfX62Gfog9I/AAAAAAAAABU/81zwl6Vkm44LnUnmkKv1Dgv4Gcj2FoIZQCLcBGAs/s640/%25E0%25B9%2580%25E0%25B8%2594%25E0%25B8%258A%25E0%25B8%2584%25E0%25B8%25B1%25E0%25B8%25A1%25E0%25B8%25A0%25E0%25B8%25B5%25E0%25B8%25A3%25E0%25B9%258C%25E0%25B9%2580%25E0%25B8%2597%25E0%25B8%25A7%25E0%25B8%2594%25E0%25B8%25B2%2B2001.jpg" width="640" /></a></div>
+<br />
+&nbsp; &nbsp; <br />
+&nbsp; &nbsp; &nbsp; &nbsp;เนื้อเรื่อง :&nbsp;เหล็งฮู้ชง (แซม ฮุย) เป็นศิษย์เอกสำนักหัวซาน เป็นศิษย์ของงักปุ๊กคุ้ง เจ้าสำนักหัวซาน เหล็งฮู้ชงเป็นคนไม่มีพรสวรรค์ด้านการฝึกวิชา แต่เป็นคนชอบสนุกสนานรื่นเริงและจริงใจกับคนรอบด้าน เขาได้ออกเดินทางผจญภัยไปในยุทธภพและได้พบกับฟงชิงหยาง ผู้เฒ่าพเนจรผู้ก่อตั้งสำนักหัวซาน ฟงชิงหยางได้สอนวิชากระบี่โต๊ะโกให้แก่เหล็งฮู้ชง ทำให้เหล็งฮู้ชงกลายเป็นผู้เยี่ยมยุทธ และท้ายที่สุด งักปุ๊กคุ้ง อาจารย์ของเหล็งฮู้ชง ผู้ที่เหมือนว่าจะเป็นผู้ดีแต่จริง ๆ แล้วต้องการจะครอบครองคัมภีร์ทานตะวันเพื่อเป็นเจ้ายุทธจักร ผู้ดีเป็นผู้ร้าย มีแต่เพียงเหล็งฮู้ชง บุคคลที่ไม่เอาไหนเท่านั้น ที่สามารถจะร้องเพลงเยาะเย้ยยุทธจักรได้อย่างแท้จริง เป็นการฉีกแนวภาพยนตร์ที่พระเอกกลายเป็นผู้ที่ไม่ได้เก่งกล้ากว่าคนอื่นมากที่สุดแต่อย่างใด<br />
+<!--more-->
+<script>
+  function go(loc,spanidname) {
+loc=loc+"?modestbranding=1";
+
+    document.getElementById('myvideo').src = loc;  
+    document.getElementById(spanidname).style="color:blue";
+  }
+  </script>
+
+<iframe id="myvideo" width="560" height="315" src="https://www.youtube.com/embed/VPlD1ZgZljY" frameborder="0" gesture="media"  allowfullscreen></iframe>
+<br />
+<span id="span01"  onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'"onclick="go('//www.dailymotion.com/embed/video/k3ariNLw0IG1jopkfcN','span01')";> ตอนที่01</span><br><br>
+<span id="span02"  onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'"onclick="go('//www.dailymotion.com/embed/video/x66t63i','span02')";> ตอนที่02</span><br><br>
+<span id="span03"  onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'"onclick="go('//www.dailymotion.com/embed/video/krps4cL4FKGO0MpkiMc','span03')";> ตอนที่03</span><br><br>
+<span id="span04"  onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'"onclick="go('//www.dailymotion.com/embed/video/x66tfdy','span04')";> ตอนที่04</span><br><br>
+
+<span id="span05"  onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/5qIh0mkJxAg','span05')";> ตอนที่05</span><br><br>
+<span id="span06" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"
+onclick="go('https://www.youtube.com/embed/gDG6X86GzjQ','span06')";>
+ ตอนที่06</span><br><br>
+<span id="span07" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/U4F_5WF2tN0','span07')";>
+ ตอนที่07</span><br><br>
+<span id="span08" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/wp82Lpoddp8','span08')";>
+ ตอนที่08</span><br><br>
+<span id="span09" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/e2xkmfqdtfo','span09')";>
+ ตอนที่09</span><br><br>
+<span id="span10" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/xpYO87QH9kk','span10')";>
+ ตอนที่10</span><br><br>
+<span id="span11" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://www.youtube.com/embed/TvAF0euHkGM','span11')";>
+ ตอนที่11</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/h1fxlEYUATg','span12')";>
+ ตอนที่12</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/ZUtSx_MxPqs','span13')";>
+ ตอนที่13</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/1JKq3x23IXI','span14')";>
+ ตอนที่14</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/TT_gIR1xurI','span15')";>
+ ตอนที่15</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/6URCZrOZW6Q','span16')";>
+ ตอนที่16</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/J3nD09vHb6M','span17')";>
+ ตอนที่17</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/mL5Ch2X0Opo','span18')";>
+ ตอนที่18</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/k3zy-FX5StY','span19')";>
+ ตอนที่19</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/U6tGgNqTyHE','span20')";>
+ ตอนที่20</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/vpZ5yWKm1KQ','span21')";>
+ ตอนที่21</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/XNYJ7mK-xSU','span22')";>
+ ตอนที่22</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/afkjhAZK5zQ','span23')";>
+ ตอนที่23</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/5lrruw_ozD0','span24')";>
+ ตอนที่24</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/fASEONV_cxI','span25')";>
+ ตอนที่25</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/ews01yLCQj8','span26')";>
+ ตอนที่26</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/K2CM1tj0WlA','span27')";>
+ ตอนที่27</span><br><br>
+<span id="span" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/VPlD1ZgZljY','span28')";>
+ ตอนที่28</span><br><br>
+<span id="span29" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/mt50DrtxOX0','span29')";>
+ ตอนที่ 29</span><br><br>
+<span id="span30" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/dwwNoJfzGiQ','span30')";>
+ ตอนที่ 30</span><br><br>
+<span id="span31" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/YD-o_Pjyg8M','span31')";>
+ ตอนที่ 31</span><br><br>
+<span id="span32" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/bv6VEU_5vkg','span32')";>
+ ตอนที่ 32</span><br><br>
+<span id="span33" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/ZSXHheR6SB0','span33')";>
+ ตอนที่ 33</span><br><br>
+<span id="span34" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/EAHNZIGy4R4','span34')";>
+ ตอนที่ 34</span><br><br>
+<span id="span35" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/X0YXZ8OM1D0','span35')";>
+ ตอนที่ 35</span><br><br>
+<span id="span36" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/I_rgRLL8gjs','span36')";>
+ ตอนที่ 36</span><br><br>
+<span id="span37" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/5OrsdZa9c28','span37')";>
+ ตอนที่ 37</span><br><br>
+<span id="span38" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/TZpXYiwgcdY','span38')";>
+ ตอนที่ 38</span><br><br>
+<span id="span39" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/-dNSL-k2xR4','span39')";>
+ ตอนที่ 39</span><br><br>
+<span id="span40" onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go
+
+('https://www.youtube.com/embed/qV7eNWCdBUM','span40')";>
+ ตอนที่ 40</span><br><br>
+
+
+
+

